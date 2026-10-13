@@ -1,0 +1,7 @@
+| Link | Agenzia | Zona                                  | Dimensioni | Cosa è                                                                           | Ammobiliata | Condivisa | Prezzo |
+|------+---------+---------------------------------------+------------+----------------------------------------------------------------------------------+-------------+-----------+--------|
+| [[https://www.leboncoin.fr/ad/locations/3286077624#map][.]]    | POZZO   | [[https://www.google.com/maps/place/Rue+de+la+Haie+Vign%C3%A9,+14000+Caen/@49.1825161,-0.3681432,14.55z/data=!4m6!3m5!1s0x480a42e6b3784dd5:0x84f0daed18bc2f8c!8m2!3d49.1784841!4d-0.385395!16s%2Fg%2F1tfzwwrz?entry=ttu&g_ep=EgoyMDI2MTAxMS4wIKXMDSoASAFQAw%3D%3D][Qui]]: non troppo male, 3 km a W di uni |         25 | Monolocale, con cucina in camera da letto.                                       | No          | No        |    454 |
+| [[https://www.leboncoin.fr/ad/locations/3284867821][.]]    | POZZO   | Non si capisce                        |         31 | Bilocale, cucina piccolina separata. Con piastra appoggiata su mobile.           | No          | No        |    508 |
+| [[https://www.leboncoin.fr/ad/locations/3287443047][.]]    | POZZO   | Non si capisce                        |         36 | Bilocale, sembra pure non piccolo. Soggiorno con angolo cucina con 4 fuochi (!!) | No          | No        |    549 |
+|      |         |                                       |            |                                                                                  |             |           |        |
+
